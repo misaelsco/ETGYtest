@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AppiumDriverBuilder.java&apos; to &apos;bbmafretest/src/test/java/com.entelgy.bbmafre.bbmafretest.util&apos;&#x0D;&#x0A;- Original project: &apos;calculator-test-gradle-calculator_simpler&apos;&#x0D;&#x0A;- Destination element: &apos;bbmafretest/src/test/java/com.entelgy.bbmafre.bbmafretest.util&apos;&#x0D;&#x0A;- Original element: &apos;AppiumDriverBuilder.java&apos;" description="Copy file" destination="=bbmafretest/src\/test\/java&lt;com.entelgy.bbmafre.bbmafretest.util" element1="src/test/java/com/testobject/calculatortest/util/AppiumDriverBuilder.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1474563093852" units="0" version="1.0"/>
+</session>
