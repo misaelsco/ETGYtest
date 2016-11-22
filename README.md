@@ -12,14 +12,14 @@
 
 
 
-* [Introdução](#introducao)
+* [Introdução](#introdução)
 * [AWS](#aws)
-**GIT**  
-**JAVA**  
-**MAVEN**  
-**DOCKER**  
-**ECLIPSE**  
-**TFS no Eclipse**  
+* [GIT](#git)  
+* [JAVA](#java)
+* [MAVEN](#maven)  
+* [Docker](#docker)
+* [Eclipse](#eclipse)
+* [TFS no Eclipse](#configurando-o-tfs-no-eclipse)
 
 
 ## Introdução 
@@ -35,7 +35,7 @@ Este guia tem como objetivo apresentar os procedimentos necessários para config
 
 ----
 	
-# GIT #
+## GIT 
   1. [https://github.com/git-for-windows/git/releases/tag/v2.10.1.windows.1](https://github.com/git-for-windows/git/releases/tag/v2.10.1.windows.1)
   2. Instalar o Git 2.10.1  
   ![Imagem 1](../DevEnvironmentConfigImages/GIT1.png)  
@@ -48,7 +48,7 @@ Este guia tem como objetivo apresentar os procedimentos necessários para config
   
 ----
 
-# JAVA #
+## JAVA 
   1. Instalar **java 1.8 - jdk-8u112-windows-x64**
   2. Configurar variáveis de ambiente:
     1. **JAVA\_HOME** : C:\Program Files\Java\jdk1.8.0\_112
@@ -61,7 +61,7 @@ Este guia tem como objetivo apresentar os procedimentos necessários para config
   
   ----
   
-  # MAVEN #
+## MAVEN
   1. Baixe o [Maven!][maven]. 
   2. Instalar maven 3.3.9 no diretório c:\apps  
   ![Imagem 8](../DevEnvironmentConfigImages/MAVEN1.png)
@@ -77,7 +77,7 @@ Este guia tem como objetivo apresentar os procedimentos necessários para config
 
 ----
 
-# DOCKER #
+## DOCKER
 
   1. Baixar o docker em [Docker!][Docker] 
   2. Extrair o zip DockerToolbox-1.12.2.zip  
@@ -97,7 +97,7 @@ Este guia tem como objetivo apresentar os procedimentos necessários para config
 
 ----
 
-# Eclipse #
+## Eclipse
   1. Baixar o [Eclipse Neon][eclipse!]
   2. Descompactar o Eclipse no c:\
   3. Configurar o git no Eclipse  
@@ -115,7 +115,7 @@ Este guia tem como objetivo apresentar os procedimentos necessários para config
 
 ----
 
-# Configurando o TFS no Eclipse #
+## Configurando o TFS no Eclipse
   1. No eclipse, clique no menu Help>Eclipse Marketplace
   2. Pesquisar por TFS no campo “Find” e instalar o plugin “Team Explorer Everywhere …” e cliqe em "Install"  
   ![Imagem 23](../DevEnvironmentConfigImages/TFS1.png)  
