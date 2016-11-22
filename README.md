@@ -22,13 +22,13 @@
 **TFS no Eclipse**  
 
 
-# Introdução #
+## Introdução 
 
 Este guia tem como objetivo apresentar os procedimentos necessários para configurar a estação de trabalho de desenvolvimento.
 
 ----
 
-# AWS
+## AWS
 ~~1. Configurar conexão com o AWS~~
 ~~2. URL para trocar senha: [https://alelofast.signin.aws.amazon.com/console](https://alelofast.signin.aws.amazon.com/console)~~
 
