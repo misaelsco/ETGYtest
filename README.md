@@ -12,8 +12,8 @@
 
 
 
-[Introdução] (#Introducao)
-[AWS] (#AWS)
+* [Introdução] (#Introducao)
+* [AWS](#AWS)
 **GIT**  
 **JAVA**  
 **MAVEN**  
